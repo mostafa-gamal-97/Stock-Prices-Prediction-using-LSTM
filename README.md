@@ -33,5 +33,6 @@ For more info, refer to here: [pandas_datareader](https://pandas-datareader.read
 This article was a great help in Data Preparation and Model Implementation, Also a great explanation of LSTM input requirements.
 [MachineLearningMastery - Time Series Prediction using Keras](https://machinelearningmastery.com/time-series-prediction-with-deep-learning-in-python-with-keras/)
 
-Also Seif-Helal Repo was a great help to me especially in visualizationss logic
-[Seif Helal Repo](https://github.com/seifhelal/Machine-Learning-Stock-Market-Prediction-Using-RNN)
+Also Seif Helal Repo was a great help to me especially in visualizationss logic:
+
+[Machine-Learning-Stock-Market-Prediction-Using-RNN](https://github.com/seifhelal/Machine-Learning-Stock-Market-Prediction-Using-RNN)
