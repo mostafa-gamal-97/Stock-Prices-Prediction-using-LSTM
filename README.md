@@ -30,7 +30,7 @@ For more info, refer to here: [pandas_datareader](https://pandas-datareader.read
 
 ## Acknowledgements
 
-This article was a great help in Data Preparation and Model Implementation, Also a great explanation of LSTM input requirements.
+This article was a great help in Data Preparation, Also a great explanation of LSTM input requirements.
 [MachineLearningMastery - Time Series Prediction using Keras](https://machinelearningmastery.com/time-series-prediction-with-deep-learning-in-python-with-keras/)
 
 Also Seif Helal Repo was a great help to me especially in visualizationss logic:
